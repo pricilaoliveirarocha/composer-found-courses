@@ -16,6 +16,8 @@
         }
     },
     "require": {
-        "guzzlehttp/guzzle": "^8.0"
+        "guzzlehttp/guzzle": "^8.0",
+        "symfony/dom-crawler": "^8.1",
+        "symfony/css-selector": "^8.1"
     }
 }
