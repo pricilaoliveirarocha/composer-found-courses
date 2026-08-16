@@ -1,0 +1,8 @@
+/vendor/
+/.idea/
+/.vscode/
+.env
+.env.*
+!.env.example
+composer.phar
+*** End Patch
