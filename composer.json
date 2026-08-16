@@ -1,0 +1,21 @@
+{
+    "name": "pricila/found-courses",
+    "version": "1.0.0",
+    "description": "App to found courses",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pricila",
+            "email": "pricila@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Composer\\FoundCourses\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^8.0"
+    }
+}
